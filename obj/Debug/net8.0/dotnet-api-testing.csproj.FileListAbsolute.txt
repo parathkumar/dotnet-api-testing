@@ -1,0 +1,14 @@
+D:\work\Experiments\dotnet-api-testing\bin\Debug\net8.0\dotnet-api-testing.exe
+D:\work\Experiments\dotnet-api-testing\bin\Debug\net8.0\dotnet-api-testing.deps.json
+D:\work\Experiments\dotnet-api-testing\bin\Debug\net8.0\dotnet-api-testing.runtimeconfig.json
+D:\work\Experiments\dotnet-api-testing\bin\Debug\net8.0\dotnet-api-testing.dll
+D:\work\Experiments\dotnet-api-testing\bin\Debug\net8.0\dotnet-api-testing.pdb
+D:\work\Experiments\dotnet-api-testing\obj\Debug\net8.0\dotnet-api-testing.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Experiments\dotnet-api-testing\obj\Debug\net8.0\dotnet-api-testing.AssemblyInfoInputs.cache
+D:\work\Experiments\dotnet-api-testing\obj\Debug\net8.0\dotnet-api-testing.AssemblyInfo.cs
+D:\work\Experiments\dotnet-api-testing\obj\Debug\net8.0\dotnet-api-testing.csproj.CoreCompileInputs.cache
+D:\work\Experiments\dotnet-api-testing\obj\Debug\net8.0\dotnet-api-testing.dll
+D:\work\Experiments\dotnet-api-testing\obj\Debug\net8.0\refint\dotnet-api-testing.dll
+D:\work\Experiments\dotnet-api-testing\obj\Debug\net8.0\dotnet-api-testing.pdb
+D:\work\Experiments\dotnet-api-testing\obj\Debug\net8.0\dotnet-api-testing.genruntimeconfig.cache
+D:\work\Experiments\dotnet-api-testing\obj\Debug\net8.0\ref\dotnet-api-testing.dll
