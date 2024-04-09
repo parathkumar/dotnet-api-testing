@@ -15,7 +15,7 @@ public static async Task ParallelFunc(List<int> strings, HttpClient client)
 
     await Parallel.ForEachAsync(strings, new ParallelOptions() { MaxDegreeOfParallelism = 5 }, async (index, ct) =>
 {
-    var test = await ProcessRepositoriesAsync(client);
+    await ProcessRepositoriesAsync(client);
 });
 }
 
@@ -24,7 +24,7 @@ public static async Task SyncFunc(List<int> strings, HttpClient client)
 
     foreach (var item in strings)
     {
-        var test = await ProcessRepositoriesAsync(client);
+        await ProcessRepositoriesAsync(client);
     }
 }
 
